@@ -99,9 +99,7 @@ ProbeShield requests the following permissions — here's exactly why each one i
 
 <p align="center">
   <img src="assets/audit_report.jpg" width="24%" alt="Audit Report"/>
-  <img src="assets/settings.jpg" width="24%" alt="Settings"/>
   <img src="assets/feedback.jpg" width="24%" alt="Feedback"/>
-  <img src="assets/dashboard.jpg" width="24%" alt="Dashboard"/>
 </p>
 
 ---
