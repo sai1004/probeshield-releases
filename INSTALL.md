@@ -8,7 +8,7 @@ This guide walks you through installing ProbeShield on any Android 8.0+ device.
 
 ## Step 1 — Download the APK
 
-Go to the [Releases page](https://github.com/saikiranbavandla/probeshield-releases/releases/latest) and tap **ProbeShield-vX.X.X.apk** to download it.
+Go to the [Releases page](https://github.com/sai1004/probeshield-releases/releases/latest) and tap **ProbeShield-vX.X.X.apk** to download it.
 
 ---
 
@@ -17,6 +17,7 @@ Go to the [Releases page](https://github.com/saikiranbavandla/probeshield-releas
 Android blocks installs from outside the Play Store by default. You'll need to allow your browser (or file manager) to install apps.
 
 ### Android 8.0 – 9.0
+
 1. Open **Settings**
 2. Tap **Apps & notifications**
 3. Tap **Advanced** → **Special app access**
@@ -25,6 +26,7 @@ Android blocks installs from outside the Play Store by default. You'll need to a
 6. Toggle **Allow from this source** ON
 
 ### Android 10+
+
 1. When you tap the APK, Android will prompt you automatically
 2. Tap **Settings** in the prompt
 3. Toggle **Allow from this source** ON
@@ -56,7 +58,8 @@ Tap **Allow** for both.
 ## Updating
 
 When a new version is released:
-1. Download the new APK from the [Releases page](https://github.com/saikiranbavandla/probeshield-releases/releases)
+
+1. Download the new APK from the [Releases page](https://github.com/sai1004/probeshield-releases/releases)
 2. Install it over the existing app — your scan history will be preserved
 3. You do **not** need to uninstall the old version first
 
@@ -71,16 +74,19 @@ Go to **Settings → Apps → ProbeShield → Uninstall**.
 ## Troubleshooting
 
 **"App not installed" error**
+
 - Make sure you haven't blocked the installer
 - Try downloading again — the APK may be corrupted
 
 **"Unsafe app" warning from Play Protect**
+
 - This is normal for sideloaded apps
 - Tap **Install anyway** — ProbeShield is safe
 
 **App crashes on launch**
+
 - Make sure you're running Android 8.0 or higher
-- Report the issue at [GitHub Issues](https://github.com/saikiranbavandla/probeshield-releases/issues)
+- Report the issue at [GitHub Issues](https://github.com/sai1004/probeshield-releases/issues)
 
 ---
 

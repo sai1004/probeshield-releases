@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/saikiranbavandla/probeshield-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/saikiranbavandla/probeshield-releases?color=00BCD4&label=Latest%20Release&style=for-the-badge" alt="Latest Release"/>
+  <a href="https://github.com/sai1004/probeshield-releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/sai1004/probeshield-releases?color=00BCD4&label=Latest%20Release&style=for-the-badge" alt="Latest Release"/>
   </a>
   <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-00BCD4?style=for-the-badge&logo=android" alt="Android 8.0+"/>
   <img src="https://img.shields.io/badge/License-Proprietary-1B4F8A?style=for-the-badge" alt="License"/>
@@ -39,7 +39,7 @@ ProbeShield scans your local WiFi network to identify connected devices, open po
 
 ### Step 1 — Download the APK
 
-👉 **[Download Latest APK](https://github.com/saikiranbavandla/probeshield-releases/releases/latest)**
+👉 **[Download Latest APK](https://github.com/sai1004/probeshield-releases/releases/latest)**
 
 ### Step 2 — Allow Unknown Sources
 
@@ -63,12 +63,12 @@ On your Android device:
 
 ## Requirements
 
-| Requirement | Minimum |
-|---|---|
-| Android version | 8.0 (Oreo) / API 26 |
-| Storage | ~25 MB |
-| Network | WiFi connection required |
-| Permissions | See below |
+| Requirement     | Minimum                  |
+| --------------- | ------------------------ |
+| Android version | 8.0 (Oreo) / API 26      |
+| Storage         | ~25 MB                   |
+| Network         | WiFi connection required |
+| Permissions     | See below                |
 
 ---
 
@@ -76,13 +76,13 @@ On your Android device:
 
 ProbeShield requests the following permissions — here's exactly why each one is needed:
 
-| Permission | Why it's needed |
-|---|---|
-| `ACCESS_WIFI_STATE` | Read WiFi network info (SSID, gateway IP) |
-| `ACCESS_FINE_LOCATION` | Required by Android to scan WiFi networks |
-| `INTERNET` | Send probe packets to devices on your network |
-| `USE_BIOMETRIC` | App lock via fingerprint |
-| `USE_FINGERPRINT` | App lock fallback (older devices) |
+| Permission             | Why it's needed                               |
+| ---------------------- | --------------------------------------------- |
+| `ACCESS_WIFI_STATE`    | Read WiFi network info (SSID, gateway IP)     |
+| `ACCESS_FINE_LOCATION` | Required by Android to scan WiFi networks     |
+| `INTERNET`             | Send probe packets to devices on your network |
+| `USE_BIOMETRIC`        | App lock via fingerprint                      |
+| `USE_FINGERPRINT`      | App lock fallback (older devices)             |
 
 > 🔒 **No data is ever transmitted to any server.** All scan results are stored locally on your device only.
 
@@ -111,20 +111,20 @@ ProbeShield is currently in **closed beta**. If you'd like to participate:
 
 1. Install the APK using the instructions above
 2. Use the app on your home/office WiFi for a few days
-3. Report any bugs via [Issues](https://github.com/saikiranbavandla/probeshield-releases/issues/new?template=bug_report.md)
+3. Report any bugs via [Issues](https://github.com/sai1004/probeshield-releases/issues/new?template=bug_report.md)
 4. Share feedback via [support@probeshield.com](mailto:support@probeshield.com)
 
 ---
 
 ## Support
 
-| Channel | Link |
-|---|---|
-| 📧 Email | [support@probeshield.com](mailto:support@probeshield.com) |
-| 🌐 Website | [probeshield.com](https://probeshield.com) |
-| 🔒 Privacy Policy | [probeshield.com/privacy](https://probeshield.com/privacy) |
-| 📄 Terms of Service | [probeshield.com/terms](https://probeshield.com/terms) |
-| 🐛 Bug Reports | [GitHub Issues](https://github.com/saikiranbavandla/probeshield-releases/issues) |
+| Channel             | Link                                                                    |
+| ------------------- | ----------------------------------------------------------------------- |
+| 📧 Email            | [support@probeshield.com](mailto:support@probeshield.com)               |
+| 🌐 Website          | [probeshield.com](https://probeshield.com)                              |
+| 🔒 Privacy Policy   | [probeshield.com/privacy](https://probeshield.com/privacy)              |
+| 📄 Terms of Service | [probeshield.com/terms](https://probeshield.com/terms)                  |
+| 🐛 Bug Reports      | [GitHub Issues](https://github.com/sai1004/probeshield-releases/issues) |
 
 ---
 
@@ -138,6 +138,6 @@ By using ProbeShield you agree to our [Terms of Service](https://probeshield.com
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="mailto:saikiranapps@gmail.com">Saikiran Apps</a><br/>
+  Made with ❤️ by <a href="mailto:sai.bsk1@gmail.com">Saikiran Bavandla</a><br/>
   © 2025 ProbeShield. All rights reserved.
 </p>

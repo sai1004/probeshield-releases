@@ -6,12 +6,12 @@
 
 ### 📦 Download
 
-| File | Size | SHA-256 |
-|---|---|---|
-| `ProbeShield-v1.0.0.apk` | ~25 MB | *(add after build)* |
+| File                     | Size   | SHA-256             |
+| ------------------------ | ------ | ------------------- |
+| `ProbeShield-v1.0.0.apk` | ~25 MB | _(add after build)_ |
 
 👉 Tap the APK file above to download.
-New to sideloading? See the [Installation Guide](https://github.com/saikiranbavandla/probeshield-releases/blob/main/INSTALL.md).
+New to sideloading? See the [Installation Guide](https://github.com/sai1004/probeshield-releases/blob/main/INSTALL.md).
 
 ---
 
@@ -38,9 +38,9 @@ New to sideloading? See the [Installation Guide](https://github.com/saikiranbava
 
 ### 🐛 Report Issues
 
-Found a bug? → [Open an issue](https://github.com/saikiranbavandla/probeshield-releases/issues/new?template=bug_report.yml)
+Found a bug? → [Open an issue](https://github.com/sai1004/probeshield-releases/issues/new?template=bug_report.yml)
 Email us → [support@probeshield.com](mailto:support@probeshield.com)
 
 ---
 
-*© 2025 ProbeShield — [probeshield.com](https://probeshield.com)*
+_© 2025 ProbeShield — [probeshield.com](https://probeshield.com)_
