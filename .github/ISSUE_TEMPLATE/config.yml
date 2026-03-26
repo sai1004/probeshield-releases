@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support Email
+    url: mailto:support@probeshield.com
+    about: For general questions and support, email us directly.
+  - name: ProbeShield Website
+    url: https://probeshield.com
+    about: Visit our website for more information.
