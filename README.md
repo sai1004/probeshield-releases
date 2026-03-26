@@ -1,7 +1,7 @@
 # ProbeShield — Network Security Audit
 
 <p align="center">
-  <img src="assets/banner.png" alt="ProbeShield Banner" width="100%"/>
+  <img src="assets/dashboard.jpg" alt="ProbeShield Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -91,10 +91,17 @@ ProbeShield requests the following permissions — here's exactly why each one i
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshot_1.png" width="23%" alt="Device List"/>
-  <img src="assets/screenshot_2.png" width="23%" alt="Device Detail"/>
-  <img src="assets/screenshot_3.png" width="23%" alt="Port Scan"/>
-  <img src="assets/screenshot_4.png" width="23%" alt="Scan History"/>
+  <img src="assets/device_list.jpg" width="24%" alt="Device List"/>
+  <img src="assets/device_detail.jpg" width="24%" alt="Device Detail"/>
+  <img src="assets/scanning.jpg" width="24%" alt="Port Scan"/>
+  <img src="assets/scan_summary.jpg" width="24%" alt="Scan Results"/>
+</p>
+
+<p align="center">
+  <img src="assets/audit_report.jpg" width="24%" alt="Audit Report"/>
+  <img src="assets/settings.jpg" width="24%" alt="Settings"/>
+  <img src="assets/feedback.jpg" width="24%" alt="Feedback"/>
+  <img src="assets/dashboard.jpg" width="24%" alt="Dashboard"/>
 </p>
 
 ---
