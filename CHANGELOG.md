@@ -6,7 +6,7 @@ Format: `[Version] — Release Date`
 
 ---
 
-## [1.2.0] — Unreleased
+## [1.2.0] — 2026-09-28
 
 **Alerts**
 - After a scan, optionally turn on daily background monitoring to be notified when a new device joins, your router's identity changes, or a device becomes riskier
