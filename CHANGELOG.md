@@ -6,6 +6,31 @@ Format: `[Version] — Release Date`
 
 ---
 
+## [1.2.0] — Unreleased
+
+**Alerts**
+- After a scan, optionally turn on daily background monitoring to be notified when a new device joins, your router's identity changes, or a device becomes riskier
+- Notification permission is now requested only when monitoring is turned on
+- Dashboard shows monitoring status and the last background check
+
+**Router check**
+- New "Check your router" card and screen with an immediate check
+- Results start with a ranked verdict and a plain-language fix for each issue
+- Never reports the router as secure when the default-password test could not run
+
+**Sharing**
+- Share a network health card (score, status, device counts) as an image; it omits the network name, IPs and MACs
+
+**Guidance**
+- More accurate CVE fix guidance, with a note about vendor backports and a tappable NVD advisory link
+- The first-run disclaimer now mentions the weekly public CVE download from NIST's National Vulnerability Database
+
+**Fixes**
+- Fixed the release build and corrected ProGuard keep rules
+- Optional in-app rating request after a clean second scan
+
+---
+
 ## [1.0.0] — 2025
 
 ### 🎉 Initial Release
