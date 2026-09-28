@@ -30,7 +30,7 @@ We will acknowledge your report within 48 hours and aim to release a fix within 
 
 ## Scope
 
-ProbeShield is an **on-device only** application. There is no backend server, no API, and no cloud storage. All data is stored locally on the user's device.
+ProbeShield is an **on-device only** application. There is no backend server, no API, and no cloud storage. All data is stored locally on the user's device. The only outbound request the app makes on its own is a weekly download of public CVE data from the NIST National Vulnerability Database (`services.nvd.nist.gov`); it sends no scan results or device information.
 
 Security reports relevant to:
 - APK integrity / tampering

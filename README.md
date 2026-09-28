@@ -31,7 +31,7 @@ ProbeShield scans your local WiFi network to identify connected devices, open po
 - ⚠️ **Risk Scoring** — Critical / High / Medium / Safe ratings
 - 📜 **Scan History** — All scans stored locally on your device
 - 🔒 **App Lock** — PIN + biometric protection
-- 🚫 **No cloud** — 100% on-device, no data ever leaves your phone
+- 🚫 **No cloud** — 100% on-device, your scan data never leaves your phone
 
 ---
 
@@ -84,7 +84,7 @@ ProbeShield requests the following permissions — here's exactly why each one i
 | `USE_BIOMETRIC`        | App lock via fingerprint                      |
 | `USE_FINGERPRINT`      | App lock fallback (older devices)             |
 
-> 🔒 **No data is ever transmitted to any server.** All scan results are stored locally on your device only.
+> 🔒 **Your scan data is never transmitted to any server.** All scan results are stored locally on your device only. The one thing the app fetches on its own is public vulnerability (CVE) data from NIST's National Vulnerability Database, about once a week; nothing about you or your network is sent with that request.
 
 ---
 
