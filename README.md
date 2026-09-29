@@ -55,7 +55,7 @@ On your Android device:
 ### Step 3 — Install
 
 1. Open your **Downloads** folder
-2. Tap `ProbeShield-v1.0.0.apk`
+2. Tap the downloaded `ProbeShield-vX.X.X.apk` file
 3. Tap **Install**
 4. Tap **Open**
 

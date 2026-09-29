@@ -37,7 +37,7 @@ Android blocks installs from outside the Play Store by default. You'll need to a
 ## Step 3 — Install the APK
 
 1. Open your **Downloads** folder (or tap the notification)
-2. Tap `ProbeShield-v1.0.0.apk`
+2. Tap the downloaded `ProbeShield-vX.X.X.apk` file
 3. Tap **Install**
 4. Wait for installation to complete
 5. Tap **Open**
