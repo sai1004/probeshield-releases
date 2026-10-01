@@ -143,6 +143,6 @@ By using ProbeShield you agree to our [Terms of Service](https://probeshield.com
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="mailto:sai.bsk1@gmail.com">Saikiran Bavandla</a><br/>
+  Made with ❤️ by <a href="mailto:support@probeshield.com">Saikiran Bavandla</a><br/>
   © 2025 ProbeShield. All rights reserved.
 </p>
